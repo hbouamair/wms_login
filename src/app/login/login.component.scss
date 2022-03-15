@@ -1,0 +1,77 @@
+    .page {
+        font-family: 'Montserrat', sans-serif;
+        align-items: center;
+        text-align: -webkit-center;
+        height: 100vh;
+        background-color: #02364C;
+    }
+    
+    .foot {
+        background-image: url('../../assets/img2.svg');
+        background-size: 100% 124%;
+        background-repeat: no-repeat;
+        min-height: 31vh !important;
+    }
+    
+    .title {
+        float: left;
+    }
+    
+    .back {
+        background-image: url('../../assets/img1.svg');
+        background-size: 114% 101%;
+        background-repeat: no-repeat;
+    }
+    
+    .card {
+        width: 75%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 0px;
+    }
+    
+    .form-control {
+        padding: 10px;
+    }
+    
+    .log {
+        display: flex;
+        justify-content: center;
+        .logo {
+            width: 60%;
+            margin: auto;
+            display: block;
+        }
+    }
+    
+    .form-check {
+        padding-left: 2.5em !important;
+    }
+    
+    .img2 {
+        width: 50%;
+    }
+    
+    .bt1 {
+        background-color: #02364C;
+        color: #ffff;
+    }
+    
+    .bt2 {
+        background-color: #DA7015;
+        color: #ffff;
+    }
+    
+    .bt3 {
+        color: #DA7015;
+        border: 1px solid #DA7015;
+    }
+    
+    .lef {
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    
+    .buttons {}
